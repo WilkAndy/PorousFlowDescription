@@ -2,6 +2,8 @@
 
 The PorousFlow module of MOOSE enables the simulation of flow and transport through porous media.
 
+The PorousFlow module comes bundled with the MOOSE framework itself, and may be found at https://github.com/idaholab/moose/tree/master/modules/porous_flow
+
 ## Use
 
 PorousFlow documentation can be found at https://mooseframework.org/modules/porous_flow/index.html, which describes:
